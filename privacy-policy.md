@@ -12,9 +12,13 @@ Finished mosaics are saved to your photo library only when you explicitly choose
 
 ## Data collection and tracking
 
-Pixify does not require an account, collect personal data, use advertising identifiers, track you, or include analytics or advertising SDKs.
+Pixify does not require an account, use advertising identifiers, track you, or include analytics or advertising SDKs.
 
 Temporary thumbnails and rendering files may be stored inside Pixify’s private app container to create mosaics. iOS may remove cached files, and removing the app removes its local app data.
+
+## Support messages
+
+If you email support, the developer receives the email address and information you choose to include. This information is used only to respond to your request and is retained in the support mailbox as needed. It is not sold or used for advertising.
 
 ## Third-party services
 
@@ -22,7 +26,7 @@ Pixify does not send data to third-party services. If you choose a destination f
 
 ## Contact
 
-For privacy questions, contact the developer through the support page linked on Pixify’s App Store listing.
+For privacy questions, email [pixify.support@gmail.com](mailto:pixify.support@gmail.com).
 
 ## Changes
 
