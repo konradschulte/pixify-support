@@ -22,7 +22,7 @@ Pixify supports up to 5,000 source photos per mosaic to keep creation reliable.
 
 ## Contact
 
-- Feedback and bug reports: [Support E-mail](mailto:pixify.support@gmail.com)
+- Feedback and bug reports: [pixify.support@gmail.com](mailto:pixify.support@gmail.com)
 - Developer: [Konrad Schulte on GitHub](https://github.com/konradschulte)
 
 When reporting a problem, include your iPhone model, iOS version, which export quality you selected, and the step where the issue occurred. Do not attach private photos unless you intentionally want to share them.
